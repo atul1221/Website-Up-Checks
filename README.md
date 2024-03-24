@@ -3,7 +3,7 @@ Mini project to check if website is up and running fine.
 
 It is using response python library to get reponse from the website then it will log the output to the log file using logging library.
 
-**HTTP response status codes**
+**HTTP response status codes**<br>
 Informational responses (100 – 199)<br>
 Successful responses (200 – 299)<br>
 Redirection messages (300 – 399)<br>
