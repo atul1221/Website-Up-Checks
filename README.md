@@ -23,3 +23,5 @@ Server error responses (500 – 599)
 207 Multi-Status: Provides status for multiple independent operations.
 208 Already Reported: Used inside a DAV: propstat response element to avoid repeatedly enumerating the internal members of multiple bindings to the same collection.
 226 IM Used: The server has fulfilled a request for the resource, and the response is a representation of the result of one or more instance-manipulations applied to the current instance.
+
+Author ~ Atul Sahay
